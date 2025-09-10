@@ -77,6 +77,7 @@
 </body>
 </html>
 
+
 * {
     margin: 0;
     padding: 0;
@@ -186,4 +187,6 @@ footer {
     background-color: #2c3e50;
     color: white;
 }
+
+
 // Add any interactive elements you'd like, such as smooth scrolling or form validation
